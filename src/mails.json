@@ -1,0 +1,22 @@
+[
+  {
+    "mail": "santiago@gmail.com",
+    "color": "Verde"
+  },
+  {
+    "mail": "lucas@gmail.com",
+    "color": "Azul"
+  },
+  {
+    "mail": "nico@gmail.com",
+    "color": "Rojo"
+  },
+  {
+    "mail": "caro@gmail.com",
+    "color": "Amarillo"
+  },
+  {
+    "mail": "carlos@gmail.com",
+    "color": "Naranja"
+  }
+]
