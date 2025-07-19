@@ -15,7 +15,8 @@ const colorMap: { [key: string]: string } = {
   Amarillo: '#E8C838', // Un amarillo más visible sobre fondo blanco
   Rojo: 'red',
   Naranja: 'orange',
-  Celeste: 'skyblue',
+  Violeta: 'purple',
+  Rosa: 'pink',
 };
 
 function App() {
